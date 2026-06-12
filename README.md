@@ -6,8 +6,6 @@
 
 🎓 Graduated from Royal University of Phnom Penh
 
-🌱 Currently building web applications using FastAPI, React, and Cloud Infrastructure
-
 ---
 
 ## 🛠 Tech Stack
