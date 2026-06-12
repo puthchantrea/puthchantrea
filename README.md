@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Puth Chantrea
 
-<!--
-**puthchantrea/puthchantrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Full Stack Web Developer from Cambodia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduated from Royal University of Phnom Penh
+
+🌱 Currently building web applications using FastAPI, React, and Cloud Infrastructure
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- Vue.js
+- Tailwind CSS
+
+### Backend
+- Python
+- FastAPI
+- Node.js
+
+### Database
+- PostgreSQL
+- MySQL
+- Redis
+
+### DevOps
+- Docker
+- Linux
+- Nginx
+- GitHub Actions
+
+---
+
+## 📌 Current Projects
+
+### Planning Core
+AI-powered planning platform built with FastAPI.
+
+### Survival Core
+Unity multiplayer survival game using Netcode.
+
+---
+
+## 📫 Contact
+
+Email: your-email@example.com
+
+Portfolio: https://yourwebsite.com
