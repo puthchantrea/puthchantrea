@@ -15,39 +15,21 @@
 ### Frontend
 - React
 - Next.js
-- Vue.js
 - Tailwind CSS
 
 ### Backend
-- Python
-- FastAPI
-- Node.js
+- Java Springboot
 
 ### Database
-- PostgreSQL
 - MySQL
-- Redis
 
 ### DevOps
-- Docker
-- Linux
-- Nginx
 - GitHub Actions
-
----
-
-## 📌 Current Projects
-
-### Planning Core
-AI-powered planning platform built with FastAPI.
-
-### Survival Core
-Unity multiplayer survival game using Netcode.
 
 ---
 
 ## 📫 Contact
 
-Email: your-email@example.com
+Email: puthchantrea@gmail.com
 
-Portfolio: https://yourwebsite.com
+Portfolio: https://puthchantrea.vercel.app
